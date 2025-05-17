@@ -1,2 +1,2 @@
 # DroidDevTips
-This is the droid dev tips repository containing the code examples
+This repository contains a Android code snippets example directly from the Droid Dev Tips example.
